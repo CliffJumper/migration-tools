@@ -1,0 +1,22 @@
+{
+  "name": "migration-tools",
+  "version": "1.0.0",
+  "description": "Tools developed and used during various IT and Cloud migrations",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CliffJumper/migration-tools.git"
+  },
+  "author": "Cliff Free",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/CliffJumper/migration-tools/issues"
+  },
+  "homepage": "https://github.com/CliffJumper/migration-tools#readme",
+  "devDependencies": {
+    "electron": "^8.2.5"
+  }
+}
